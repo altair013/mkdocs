@@ -1,8 +1,8 @@
-site_name: CompanyGram
+site_name: Mkdocs
 
-site_url: https://oa-formation.github.io/mkdocs_publish/
-repo_url: https://github.com/oa-formation/mkdocs-publish
-repo_name: mkdocs_companygram
+site_url: https://mkdocs.github.io/mkdocs/
+repo_url: https://github.com/altair013/mkdocs
+repo_name: mkdocs
 
 theme:
   name: material
